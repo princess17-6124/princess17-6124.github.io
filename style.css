@@ -28,7 +28,10 @@ footer{
     font-size: large;
 }
 .facts-page{
-    background-color: ;
+    background-color: aqua;
+}
+.facts-content-div h2{
+    text-align: center;
 }
 .gallery-content{
     display: flex;
