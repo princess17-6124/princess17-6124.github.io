@@ -30,3 +30,19 @@ footer{
 .facts-page{
     background-color: ;
 }
+.gallery-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gallery-content button{
+    border-radius: 30%;
+    padding: 2%;
+    margin: 3%;
+    background-color: rgb(20, 130, 160);
+    border-color: rgb(20, 130, 160);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    height: 2%;
+}
