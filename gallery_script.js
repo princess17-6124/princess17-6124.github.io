@@ -1,6 +1,7 @@
 const imageGallery = [
     "link",
     "link",
+    "link",
     "link"
 ];
 const imageElement= document.getElementById('gallery-image');
